@@ -12,7 +12,7 @@ Here we assign AI a persona for better behaviour of that particular rolethat we 
 Example: telling AI to act as a writer.
 •	Few shots prompt:
 In this we give some example to add on that particular topic we need.
-Example: Add trees on the both sides of the building.
+Example: 2*3=6,4*3=12,3*7=?
 •	Zero shots prompt:
 We do not give any example to AI which makes it less better as AI do not get proper details.
 Example: Draw something.
